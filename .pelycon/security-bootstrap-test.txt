@@ -1,0 +1,10 @@
+Pelycon security bootstrap test
+
+This harmless file was created to trigger the GitHub Actions security workflow
+and make the required Gitleaks status check visible in GitHub.
+
+Created: 2026-07-02 12:43:37 -04:00
+Repository: TateWilson-dev/Test-Repo
+Base branch: main
+
+Do not merge this pull request. Close it after confirming the security check appears.
